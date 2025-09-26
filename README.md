@@ -31,7 +31,7 @@ Copy libracy and place in the same directory with executable file.
 
 ## Releases
 
-See [Release](https://github.com/RogerChen2005/wallitor/releases)
+See [Release](https://github.com/RogerChen2005/wallitor/releases).
 
 ## Contributions
 
