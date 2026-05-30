@@ -35,7 +35,7 @@ See [Release](https://github.com/RogerChen2005/wallitor/releases).
 
 ## Contributions
 
-Welcome Issues and PRs!!!
+Welcome Issues and PRs!!!!!
 
 ## Acknowledgement
 
